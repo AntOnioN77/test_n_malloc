@@ -1,4 +1,4 @@
-#include "jp_tester.h"
+#include "test_malloc_protection.h"
 
 void 	*ft_malloc(size_t n)
 {
