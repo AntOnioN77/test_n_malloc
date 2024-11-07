@@ -1,5 +1,7 @@
 #include "test_malloc_protection.h"
 
+
+//NO NECESITAS ESTA FUNCIÖN PARA EL TEST esta aqui para servir de ejemplo, el tipo de comportamiento que ponemos a prueba
 char *str_funcion_testeada(void)
 {
     char *memmory;

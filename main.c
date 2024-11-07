@@ -23,6 +23,7 @@ int main(void)
 
 
 //Descomenta este main si tu funcion debuelve un puntero NULL en caso de error.
+/*
 int main(void)
 {
     int i;
@@ -39,3 +40,4 @@ int main(void)
     }
     return (0);
 }
+*/
